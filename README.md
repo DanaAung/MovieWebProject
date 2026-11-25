@@ -1,6 +1,8 @@
-# MovieApp — Movie Discovery & Streaming Catalog
+# DNA Movies — Movie Discovery & Streaming Catalog
 
 A modern, responsive movie discovery web application built with **React** and **Vite**. Browse trending films, search across thousands of titles, and explore detailed movie overviews, ratings, and release information.
+
+**🔗 Live Demo:** [https://danaaung.github.io/MovieWebProject/](https://danaaung.github.io/MovieWebProject/)
 
 ## Features
 
